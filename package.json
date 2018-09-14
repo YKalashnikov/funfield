@@ -2,7 +2,7 @@
   "name": "funfunfield",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:/YKalashnikov.github.io/funfield",
+  "homepage": "https:/ykalashnikov.github.io/funfield",
   "dependencies": {
     "firebase": "^5.4.1",
     "gh-pages": "^1.2.0",
